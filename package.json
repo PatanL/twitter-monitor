@@ -1,0 +1,16 @@
+{
+  "name": "twitter-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@the-convocation/twitter-scraper": "^0.14.1",
+    "dotenv": "^16.4.7"
+  }
+}

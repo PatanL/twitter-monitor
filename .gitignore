@@ -1,1 +1,24 @@
+# Node modules
+node_modules/
+
+# Environment variables (sensitive data)
 .env
+
+# Build output (if applicable)
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS generated files (e.g., macOS)
+.DS_Store
+
+# Optional: Editor or IDE specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
